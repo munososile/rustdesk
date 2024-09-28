@@ -1498,7 +1498,7 @@ class OndentalImpl {
   }
 
   bool isCustomClient({dynamic hint}) {
-    return true;
+    return false;
   }
 
   bool isDisableSettings({dynamic hint}) {
